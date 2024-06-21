@@ -44,6 +44,7 @@ YELLOW = colorama.Fore.YELLOW
 BLUE = colorama.Fore.LIGHTBLUE_EX
 RED = colorama.Fore.RED
 
+
 internal_urls = list()
 external_urls = list()
 
